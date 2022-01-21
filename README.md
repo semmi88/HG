@@ -53,7 +53,8 @@ Collection of links to delete different online accounts
 # General advice:
 - Don't open suspicious links/don't install suspicious apps
 - Don't use simple passwords and do't reuse passwords for different accounts
-- Use two factor authentication
+- Use two factor authentication (2FA, MFA)
+  - SMS, Email, Authenticator App, Security Key - if possible set up more than one, in case you loose access to one
 - Use a password manager
   - https://bitwarden.com/
   - https://1password.com/
