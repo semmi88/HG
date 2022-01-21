@@ -55,6 +55,7 @@ Collection of links to delete different online accounts
 - Don't use simple passwords and do't reuse passwords for different accounts
 - Use two factor authentication
 - Use a password manager
+  - https://bitwarden.com/
   - https://1password.com/
 - Use an antivirus software?			
 	- Antivirus software for Windows/Android/iOS/Mac
