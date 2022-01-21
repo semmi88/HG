@@ -14,37 +14,41 @@ Possible steps to take in casey your digital accounts have been hacked/compromis
 # Account Recovery/Deletion
 
 ## Google Account
-	Report and Recover a hacked/compromised account
-		- https://accounts.google.com/signin/recovery
-	Detailed steps to follow
-		- https://support.google.com/accounts/answer/6294825
-		- check security event (log-ins) and devices that used your account
-		- check your settings for mail 
-			- delegation/automatic email forwarding
-			- filteres and blocked addresses
-	Verify and delete linked apps/accounts and active sessions
-		- https://myaccount.google.com/u/1/security
+Report and Recover a hacked/compromised account
+- https://accounts.google.com/signin/recovery
+
+Detailed steps to follow
+- https://support.google.com/accounts/answer/6294825
+- check security event (log-ins) and devices that used your account
+- check your settings for mail 
+ - delegation/automatic email forwarding
+ - filteres and blocked addresses
+
+Verify and delete linked apps/accounts and active sessions
+- https://myaccount.google.com/u/1/security
 
 ## Youtube Account 
-	Clear watch and search history
-		- https://support.google.com/youtube/topic/9257518
+Clear watch and search history
+- https://support.google.com/youtube/topic/9257518
 
 ## Facebook Account
-	Report and Recover a hacked/compromised account
-		- https://www.facebook.com/hacked
-	Unlink apps/games/websites
-		- https://www.facebook.com/help/211829542181913
-	Log out/end active sessions
-		- https://www.facebook.com/help/211990645501187
+Report and Recover a hacked/compromised account
+- https://www.facebook.com/hacked
+
+Unlink apps/games/websites
+- https://www.facebook.com/help/211829542181913
+
+Log out/end active sessions
+- https://www.facebook.com/help/211990645501187
 
 ## LinkedIn Account
-	Report compormised account
-		- https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account?lang=en
-		- steps to verify recent activity, change password, recover account
+Report compormised account
+- https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account?lang=en
+- steps to verify recent activity, change password, recover account
 
 # Delete Accounts - one by one
 Collection of links to delete different online accounts
-	- https://backgroundchecks.org/justdeleteme/
+- https://backgroundchecks.org/justdeleteme/
   
 # General advice:
 - Don't open suspicious links/don't install suspicious apps
